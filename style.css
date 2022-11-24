@@ -1,0 +1,86 @@
+body {
+  font-size: 18px;
+  background-color: hsl(217, 54%, 11%);
+  color: white;
+  font-family: Outfit;
+  width: 1300px;
+}
+:root {
+  color: hsl(217, 54%, 11%);
+  color: hsl(216, 50%, 16%);
+  color: hsl(216, 50%, 16%);
+  color: hsl(0, 0%, 100%);
+  color: hsl(215, 51%, 70%);
+  color: hsl(178, 100%, 50%);
+}
+.whole {
+  background-color: hsl(216, 50%, 16%);
+  height: 500px;
+  width: 270px;
+  padding: 25px;
+  border-radius: 12px;
+}
+h1 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.img {
+  border-radius: 9px;
+}
+p {
+  color: hsl(215, 51%, 70%);
+}
+h4 {
+  margin: 0px;
+  padding: 0px;
+}
+.foot {
+  display: flex;
+  justify-content: space-between;
+}
+.foot1 {
+  display: flex;
+  color: hsl(178, 100%, 50%);
+  /* font-size: 14px; */
+  /* background-color: blue; */
+  width: 105px;
+  justify-content: space-between;
+}
+.foot2 {
+  display: flex;
+  justify-content: space-between;
+  width: 105px;
+  color: hsl(215, 51%, 70%);
+}
+.avatar {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  border: 1px solid white;
+}
+.last {
+  display: flex;
+  justify-content: space-between;
+
+  width: 260px;
+}
+.all {
+  margin-left: 100px;
+}
+span {
+  color: hsl(0, 0%, 100%);
+}
+.hr {
+  color: hsl(215, 51%, 70%);
+}
+.first3 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 70px;
+}
+.second3 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
